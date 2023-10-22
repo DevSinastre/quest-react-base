@@ -1,0 +1,21 @@
+.article-css{
+    background-color: rgb(144, 142, 255);
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
